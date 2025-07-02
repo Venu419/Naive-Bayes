@@ -2,7 +2,7 @@
 <h1 align="center">📝 Naive Bayes Blog Topic Classifier</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" />
-  <img src="https://img.shields.io/badge/License-GNU.svg" />
+  <img src="https://img.shields.io/badge/License-GNU GENERAL PUBLIC LICENSE.svg" />
   <img src="https://img.shields.io/badge/Model-Naive%20Bayes-orange" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
 </p>
@@ -11,7 +11,7 @@
 
 ## 📘 Project Overview
 
-This project applies **Naive Bayes Classification** to predict the **topic/category of blog posts** based on their text content. Using natural language processing (NLP) and machine learning, we analyze text data and classify it into relevant categories.
+This project applies **Naive Bayes Classification** to predict the **topic/category of blog posts** based on their text content. Using natural language processing (NLP) and machine learning, analyze text data and classify it into relevant categories.
 
 ---
 
@@ -19,7 +19,7 @@ This project applies **Naive Bayes Classification** to predict the **topic/categ
 
 > Can we classify a blog post into its correct topic using machine learning and natural language processing?
 
-We aim to build a simple and effective text classifier using the **Multinomial Naive Bayes** algorithm.
+I aim to build a simple and effective text classifier using the **Multinomial Naive Bayes** algorithm.
 
 ---
 
@@ -113,12 +113,6 @@ Special thanks to:
 - [Matplotlib](https://matplotlib.org/)
 - [Pandas](https://pandas.pydata.org/)
 - Custom dataset: `blogs.csv`
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
