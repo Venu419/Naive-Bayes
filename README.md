@@ -2,7 +2,7 @@
 <h1 align="center">📝 Naive Bayes Blog Topic Classifier</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/License-GNU.svg" />
   <img src="https://img.shields.io/badge/Model-Naive%20Bayes-orange" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
 </p>
