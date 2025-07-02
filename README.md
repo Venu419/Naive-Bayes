@@ -115,16 +115,3 @@ The results demonstrate that Naive Bayes performs well for classifying text with
 
 - Dataset created manually (blogs.csv)
 - Python libraries: Scikit-learn, Pandas, Seaborn, Matplotlib
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-## 🔗 Connect
-
-Feel free to explore, fork, and contribute!  
-⭐ Star the repository if you find it useful.
